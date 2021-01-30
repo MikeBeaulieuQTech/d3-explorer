@@ -62,10 +62,10 @@
     "webpack-dev-server": "^2.3.0"
   },
   "dependencies": {
-    "3d-force-graph": "^1.28.4",
+    "3d-force-graph": "^1.67.8",
     "d3-force-3d": "^1.1.0",
     "lodash": "^4.17.10",
-    "three": "^0.90.0",
+    "three": "^0.125.0",
     "three-spritetext": "^1.0.1"
   }
 }
